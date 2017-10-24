@@ -1,0 +1,3 @@
+Hi {{first_name}},
+We are sorry but your recent order ({{order_id}}) has been cancelled.
+Thank you

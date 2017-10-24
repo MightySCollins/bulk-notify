@@ -1,0 +1,18 @@
+sendgrid:
+  enabled: true
+  api_key: ''
+  subject: 'Your subject line'
+  from:
+    email: 'sam@emails.com'
+    name: 'Sam Collins'
+  templates:
+    plain: 'email.txt'
+    html: 'email.html'
+twillio:
+  enabled: true
+  token: ''
+  sid: ''
+  from: ''
+  templates:
+    sms: 'sms.txt'
+file: 'file.csv'
